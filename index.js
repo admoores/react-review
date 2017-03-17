@@ -1,0 +1,1 @@
+ReactDOM.render(<App word={'hello'} number={16}/>, document.getElementById("app"));
